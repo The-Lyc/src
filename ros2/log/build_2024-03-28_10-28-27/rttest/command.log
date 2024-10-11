@@ -1,0 +1,6 @@
+Invoking command in '/home/lyc/ros2_iron/src/ros2/build/rttest': /usr/bin/cmake /home/lyc/ros2_iron/src/ros2/realtime_support/rttest -DCMAKE_INSTALL_PREFIX=/home/lyc/ros2_iron/src/ros2/install/rttest
+Invoked command in '/home/lyc/ros2_iron/src/ros2/build/rttest' returned '0': /usr/bin/cmake /home/lyc/ros2_iron/src/ros2/realtime_support/rttest -DCMAKE_INSTALL_PREFIX=/home/lyc/ros2_iron/src/ros2/install/rttest
+Invoking command in '/home/lyc/ros2_iron/src/ros2/build/rttest': /usr/bin/cmake --build /home/lyc/ros2_iron/src/ros2/build/rttest -- -j4 -l4
+Invoked command in '/home/lyc/ros2_iron/src/ros2/build/rttest' returned '0': /usr/bin/cmake --build /home/lyc/ros2_iron/src/ros2/build/rttest -- -j4 -l4
+Invoking command in '/home/lyc/ros2_iron/src/ros2/build/rttest': /usr/bin/cmake --install /home/lyc/ros2_iron/src/ros2/build/rttest
+Invoked command in '/home/lyc/ros2_iron/src/ros2/build/rttest' returned '0': /usr/bin/cmake --install /home/lyc/ros2_iron/src/ros2/build/rttest

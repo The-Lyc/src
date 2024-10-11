@@ -1,0 +1,315 @@
+[0.000000] (-) TimerEvent: {}
+[0.000248] (-) JobUnselected: {'identifier': 'action_msgs'}
+[0.000278] (-) JobUnselected: {'identifier': 'action_tutorials_cpp'}
+[0.000295] (-) JobUnselected: {'identifier': 'action_tutorials_interfaces'}
+[0.000309] (-) JobUnselected: {'identifier': 'action_tutorials_py'}
+[0.000322] (-) JobUnselected: {'identifier': 'actionlib_msgs'}
+[0.000336] (-) JobUnselected: {'identifier': 'ament_cmake_ros'}
+[0.000350] (-) JobUnselected: {'identifier': 'builtin_interfaces'}
+[0.000363] (-) JobUnselected: {'identifier': 'common_interfaces'}
+[0.000376] (-) JobUnselected: {'identifier': 'composition'}
+[0.000389] (-) JobUnselected: {'identifier': 'composition_interfaces'}
+[0.000402] (-) JobUnselected: {'identifier': 'console_bridge_vendor'}
+[0.000415] (-) JobUnselected: {'identifier': 'demo_nodes_cpp'}
+[0.000427] (-) JobUnselected: {'identifier': 'demo_nodes_cpp_native'}
+[0.000441] (-) JobUnselected: {'identifier': 'demo_nodes_py'}
+[0.000453] (-) JobUnselected: {'identifier': 'demos_test_cpp'}
+[0.000714] (-) JobUnselected: {'identifier': 'diagnostic_msgs'}
+[0.000735] (-) JobUnselected: {'identifier': 'domain_coordinator'}
+[0.000749] (-) JobUnselected: {'identifier': 'dummy_map_server'}
+[0.000764] (-) JobUnselected: {'identifier': 'dummy_robot_bringup'}
+[0.000813] (-) JobUnselected: {'identifier': 'dummy_sensors'}
+[0.000831] (-) JobUnselected: {'identifier': 'eigen3_cmake_module'}
+[0.000879] (-) JobUnselected: {'identifier': 'example_interfaces'}
+[0.000897] (-) JobUnselected: {'identifier': 'examples_rclcpp_async_client'}
+[0.000946] (-) JobUnselected: {'identifier': 'examples_rclcpp_cbg_executor'}
+[0.000964] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_action_client'}
+[0.001014] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_action_server'}
+[0.001032] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_client'}
+[0.001053] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_composition'}
+[0.001068] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_publisher'}
+[0.001103] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_service'}
+[0.001178] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_subscriber'}
+[0.001227] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_timer'}
+[0.001258] (-) JobUnselected: {'identifier': 'examples_rclcpp_multithreaded_executor'}
+[0.001277] (-) JobUnselected: {'identifier': 'examples_rclcpp_wait_set'}
+[0.001299] (-) JobUnselected: {'identifier': 'examples_rclpy_executors'}
+[0.001317] (-) JobUnselected: {'identifier': 'examples_rclpy_guard_conditions'}
+[0.001333] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_action_client'}
+[0.001349] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_action_server'}
+[0.001366] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_client'}
+[0.001383] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_publisher'}
+[0.001401] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_service'}
+[0.002302] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_subscriber'}
+[0.002391] (-) JobUnselected: {'identifier': 'examples_rclpy_pointcloud_publisher'}
+[0.002410] (-) JobUnselected: {'identifier': 'examples_tf2_py'}
+[0.002564] (-) JobUnselected: {'identifier': 'fastrtps_cmake_module'}
+[0.002608] (-) JobUnselected: {'identifier': 'geometry2'}
+[0.002668] (-) JobUnselected: {'identifier': 'geometry_msgs'}
+[0.002686] (-) JobUnselected: {'identifier': 'image_tools'}
+[0.002701] (-) JobUnselected: {'identifier': 'intra_process_demo'}
+[0.002751] (-) JobUnselected: {'identifier': 'launch'}
+[0.002769] (-) JobUnselected: {'identifier': 'launch_pytest'}
+[0.002819] (-) JobUnselected: {'identifier': 'launch_ros'}
+[0.002837] (-) JobUnselected: {'identifier': 'launch_testing'}
+[0.002886] (-) JobUnselected: {'identifier': 'launch_testing_ament_cmake'}
+[0.002904] (-) JobUnselected: {'identifier': 'launch_testing_examples'}
+[0.002954] (-) JobUnselected: {'identifier': 'launch_testing_ros'}
+[0.002972] (-) JobUnselected: {'identifier': 'launch_xml'}
+[0.003020] (-) JobUnselected: {'identifier': 'launch_yaml'}
+[0.003236] (-) JobUnselected: {'identifier': 'libyaml_vendor'}
+[0.003261] (-) JobUnselected: {'identifier': 'lifecycle'}
+[0.003275] (-) JobUnselected: {'identifier': 'lifecycle_msgs'}
+[0.003289] (-) JobUnselected: {'identifier': 'lifecycle_py'}
+[0.003302] (-) JobUnselected: {'identifier': 'logging_demo'}
+[0.003334] (-) JobUnselected: {'identifier': 'mcap_vendor'}
+[0.003365] (-) JobUnselected: {'identifier': 'message_filters'}
+[0.003383] (-) JobUnselected: {'identifier': 'mimick_vendor'}
+[0.003424] (-) JobUnselected: {'identifier': 'nav_msgs'}
+[0.003443] (-) JobUnselected: {'identifier': 'orocos_kdl_vendor'}
+[0.003457] (-) JobUnselected: {'identifier': 'pendulum_control'}
+[0.003470] (-) JobUnselected: {'identifier': 'pendulum_msgs'}
+[0.003483] (-) JobUnselected: {'identifier': 'performance_test_fixture'}
+[0.003531] (-) JobUnselected: {'identifier': 'pybind11_vendor'}
+[0.003549] (-) JobUnselected: {'identifier': 'python_cmake_module'}
+[0.003597] (-) JobUnselected: {'identifier': 'python_orocos_kdl_vendor'}
+[0.003614] (-) JobUnselected: {'identifier': 'quality_of_service_demo_cpp'}
+[0.003665] (-) JobUnselected: {'identifier': 'quality_of_service_demo_py'}
+[0.003683] (-) JobUnselected: {'identifier': 'rcl'}
+[0.003748] (-) JobUnselected: {'identifier': 'rcl_action'}
+[0.003799] (-) JobUnselected: {'identifier': 'rcl_interfaces'}
+[0.003817] (-) JobUnselected: {'identifier': 'rcl_lifecycle'}
+[0.003864] (-) JobUnselected: {'identifier': 'rcl_logging_interface'}
+[0.003881] (-) JobUnselected: {'identifier': 'rcl_logging_noop'}
+[0.003899] (-) JobUnselected: {'identifier': 'rcl_logging_spdlog'}
+[0.004039] (-) JobUnselected: {'identifier': 'rcl_yaml_param_parser'}
+[0.004093] (-) JobUnselected: {'identifier': 'rclcpp'}
+[0.004111] (-) JobUnselected: {'identifier': 'rclcpp_action'}
+[0.004163] (-) JobUnselected: {'identifier': 'rclcpp_components'}
+[0.004181] (-) JobUnselected: {'identifier': 'rclcpp_lifecycle'}
+[0.004230] (-) JobUnselected: {'identifier': 'rclpy'}
+[0.004248] (-) JobUnselected: {'identifier': 'rcpputils'}
+[0.004298] (-) JobUnselected: {'identifier': 'rcutils'}
+[0.004315] (-) JobUnselected: {'identifier': 'rmw'}
+[0.004364] (-) JobUnselected: {'identifier': 'rmw_connextdds'}
+[0.004381] (-) JobUnselected: {'identifier': 'rmw_connextdds_common'}
+[0.004431] (-) JobUnselected: {'identifier': 'rmw_connextddsmicro'}
+[0.004448] (-) JobUnselected: {'identifier': 'rmw_cyclonedds_cpp'}
+[0.004512] (-) JobUnselected: {'identifier': 'rmw_dds_common'}
+[0.004536] (-) JobUnselected: {'identifier': 'rmw_fastrtps_cpp'}
+[0.004603] (-) JobUnselected: {'identifier': 'rmw_fastrtps_dynamic_cpp'}
+[0.004655] (-) JobUnselected: {'identifier': 'rmw_fastrtps_shared_cpp'}
+[0.004673] (-) JobUnselected: {'identifier': 'rmw_implementation'}
+[0.004722] (-) JobUnselected: {'identifier': 'rmw_implementation_cmake'}
+[0.004739] (-) JobUnselected: {'identifier': 'ros2action'}
+[0.004789] (-) JobUnselected: {'identifier': 'ros2bag'}
+[0.004806] (-) JobUnselected: {'identifier': 'ros2cli'}
+[0.004856] (-) JobUnselected: {'identifier': 'ros2cli_common_extensions'}
+[0.004873] (-) JobUnselected: {'identifier': 'ros2cli_test_interfaces'}
+[0.004923] (-) JobUnselected: {'identifier': 'ros2component'}
+[0.004940] (-) JobUnselected: {'identifier': 'ros2doctor'}
+[0.004989] (-) JobUnselected: {'identifier': 'ros2interface'}
+[0.005007] (-) JobUnselected: {'identifier': 'ros2launch'}
+[0.005056] (-) JobUnselected: {'identifier': 'ros2lifecycle'}
+[0.005073] (-) JobUnselected: {'identifier': 'ros2lifecycle_test_fixtures'}
+[0.005123] (-) JobUnselected: {'identifier': 'ros2multicast'}
+[0.005142] (-) JobUnselected: {'identifier': 'ros2node'}
+[0.005195] (-) JobUnselected: {'identifier': 'ros2param'}
+[0.005212] (-) JobUnselected: {'identifier': 'ros2pkg'}
+[0.005259] (-) JobUnselected: {'identifier': 'ros2run'}
+[0.005360] (-) JobUnselected: {'identifier': 'ros2service'}
+[0.005383] (-) JobUnselected: {'identifier': 'ros2test'}
+[0.005397] (-) JobUnselected: {'identifier': 'ros2topic'}
+[0.005410] (-) JobUnselected: {'identifier': 'ros2trace'}
+[0.005423] (-) JobUnselected: {'identifier': 'ros_testing'}
+[0.005446] (-) JobUnselected: {'identifier': 'rosbag2'}
+[0.005459] (-) JobUnselected: {'identifier': 'rosbag2_compression'}
+[0.005472] (-) JobUnselected: {'identifier': 'rosbag2_compression_zstd'}
+[0.005485] (-) JobUnselected: {'identifier': 'rosbag2_cpp'}
+[0.005498] (-) JobUnselected: {'identifier': 'rosbag2_examples_cpp'}
+[0.005511] (-) JobUnselected: {'identifier': 'rosbag2_examples_py'}
+[0.005523] (-) JobUnselected: {'identifier': 'rosbag2_interfaces'}
+[0.005537] (-) JobUnselected: {'identifier': 'rosbag2_performance_benchmarking'}
+[0.005550] (-) JobUnselected: {'identifier': 'rosbag2_performance_benchmarking_msgs'}
+[0.005565] (-) JobUnselected: {'identifier': 'rosbag2_py'}
+[0.005603] (-) JobUnselected: {'identifier': 'rosbag2_storage'}
+[0.005631] (-) JobUnselected: {'identifier': 'rosbag2_storage_default_plugins'}
+[0.005674] (-) JobUnselected: {'identifier': 'rosbag2_storage_mcap'}
+[0.005690] (-) JobUnselected: {'identifier': 'rosbag2_storage_sqlite3'}
+[0.005704] (-) JobUnselected: {'identifier': 'rosbag2_test_common'}
+[0.005717] (-) JobUnselected: {'identifier': 'rosbag2_test_msgdefs'}
+[0.005730] (-) JobUnselected: {'identifier': 'rosbag2_tests'}
+[0.005743] (-) JobUnselected: {'identifier': 'rosbag2_transport'}
+[0.005756] (-) JobUnselected: {'identifier': 'rosgraph_msgs'}
+[0.005770] (-) JobUnselected: {'identifier': 'rosidl_adapter'}
+[0.005785] (-) JobUnselected: {'identifier': 'rosidl_cli'}
+[0.005798] (-) JobUnselected: {'identifier': 'rosidl_cmake'}
+[0.005810] (-) JobUnselected: {'identifier': 'rosidl_core_generators'}
+[0.005823] (-) JobUnselected: {'identifier': 'rosidl_core_runtime'}
+[0.005836] (-) JobUnselected: {'identifier': 'rosidl_default_generators'}
+[0.005849] (-) JobUnselected: {'identifier': 'rosidl_default_runtime'}
+[0.005861] (-) JobUnselected: {'identifier': 'rosidl_dynamic_typesupport'}
+[0.005874] (-) JobUnselected: {'identifier': 'rosidl_dynamic_typesupport_fastrtps'}
+[0.005887] (-) JobUnselected: {'identifier': 'rosidl_generator_c'}
+[0.005899] (-) JobUnselected: {'identifier': 'rosidl_generator_cpp'}
+[0.005912] (-) JobUnselected: {'identifier': 'rosidl_generator_dds_idl'}
+[0.005927] (-) JobUnselected: {'identifier': 'rosidl_generator_py'}
+[0.005982] (-) JobUnselected: {'identifier': 'rosidl_generator_tests'}
+[0.005999] (-) JobUnselected: {'identifier': 'rosidl_generator_type_description'}
+[0.006049] (-) JobUnselected: {'identifier': 'rosidl_parser'}
+[0.006067] (-) JobUnselected: {'identifier': 'rosidl_pycommon'}
+[0.006117] (-) JobUnselected: {'identifier': 'rosidl_runtime_c'}
+[0.006135] (-) JobUnselected: {'identifier': 'rosidl_runtime_cpp'}
+[0.006246] (-) JobUnselected: {'identifier': 'rosidl_runtime_py'}
+[0.006265] (-) JobUnselected: {'identifier': 'rosidl_typesupport_c'}
+[0.006279] (-) JobUnselected: {'identifier': 'rosidl_typesupport_cpp'}
+[0.006292] (-) JobUnselected: {'identifier': 'rosidl_typesupport_fastrtps_c'}
+[0.006304] (-) JobUnselected: {'identifier': 'rosidl_typesupport_fastrtps_cpp'}
+[0.006317] (-) JobUnselected: {'identifier': 'rosidl_typesupport_interface'}
+[0.006330] (-) JobUnselected: {'identifier': 'rosidl_typesupport_introspection_c'}
+[0.006343] (-) JobUnselected: {'identifier': 'rosidl_typesupport_introspection_cpp'}
+[0.006356] (-) JobUnselected: {'identifier': 'rosidl_typesupport_introspection_tests'}
+[0.006369] (-) JobUnselected: {'identifier': 'rosidl_typesupport_tests'}
+[0.006381] (-) JobUnselected: {'identifier': 'rpyutils'}
+[0.006394] (-) JobUnselected: {'identifier': 'rti_connext_dds_cmake_module'}
+[0.006406] (-) JobUnselected: {'identifier': 'rviz2'}
+[0.006419] (-) JobUnselected: {'identifier': 'rviz_assimp_vendor'}
+[0.006432] (-) JobUnselected: {'identifier': 'rviz_common'}
+[0.006444] (-) JobUnselected: {'identifier': 'rviz_default_plugins'}
+[0.006457] (-) JobUnselected: {'identifier': 'rviz_ogre_vendor'}
+[0.006469] (-) JobUnselected: {'identifier': 'rviz_rendering'}
+[0.006482] (-) JobUnselected: {'identifier': 'rviz_rendering_tests'}
+[0.006495] (-) JobUnselected: {'identifier': 'rviz_visual_testing_framework'}
+[0.006556] (-) JobUnselected: {'identifier': 'sensor_msgs'}
+[0.006585] (-) JobUnselected: {'identifier': 'sensor_msgs_py'}
+[0.006599] (-) JobUnselected: {'identifier': 'service_msgs'}
+[0.006612] (-) JobUnselected: {'identifier': 'shape_msgs'}
+[0.006625] (-) JobUnselected: {'identifier': 'shared_queues_vendor'}
+[0.006640] (-) JobUnselected: {'identifier': 'spdlog_vendor'}
+[0.006677] (-) JobUnselected: {'identifier': 'sqlite3_vendor'}
+[0.006725] (-) JobUnselected: {'identifier': 'sros2'}
+[0.006748] (-) JobUnselected: {'identifier': 'sros2_cmake'}
+[0.006762] (-) JobUnselected: {'identifier': 'statistics_msgs'}
+[0.006776] (-) JobUnselected: {'identifier': 'std_msgs'}
+[0.006789] (-) JobUnselected: {'identifier': 'std_srvs'}
+[0.006801] (-) JobUnselected: {'identifier': 'stereo_msgs'}
+[0.006814] (-) JobUnselected: {'identifier': 'test_cli'}
+[0.006826] (-) JobUnselected: {'identifier': 'test_cli_remapping'}
+[0.006839] (-) JobUnselected: {'identifier': 'test_communication'}
+[0.006851] (-) JobUnselected: {'identifier': 'test_interface_files'}
+[0.006864] (-) JobUnselected: {'identifier': 'test_launch_ros'}
+[0.006876] (-) JobUnselected: {'identifier': 'test_launch_testing'}
+[0.006889] (-) JobUnselected: {'identifier': 'test_msgs'}
+[0.006901] (-) JobUnselected: {'identifier': 'test_quality_of_service'}
+[0.006914] (-) JobUnselected: {'identifier': 'test_rclcpp'}
+[0.006926] (-) JobUnselected: {'identifier': 'test_rmw_implementation'}
+[0.006939] (-) JobUnselected: {'identifier': 'test_ros2trace'}
+[0.006951] (-) JobUnselected: {'identifier': 'test_security'}
+[0.006964] (-) JobUnselected: {'identifier': 'test_tf2'}
+[0.006976] (-) JobUnselected: {'identifier': 'test_tracetools'}
+[0.006989] (-) JobUnselected: {'identifier': 'test_tracetools_launch'}
+[0.007002] (-) JobUnselected: {'identifier': 'tf2'}
+[0.007014] (-) JobUnselected: {'identifier': 'tf2_bullet'}
+[0.007027] (-) JobUnselected: {'identifier': 'tf2_eigen'}
+[0.007039] (-) JobUnselected: {'identifier': 'tf2_eigen_kdl'}
+[0.007052] (-) JobUnselected: {'identifier': 'tf2_geometry_msgs'}
+[0.007064] (-) JobUnselected: {'identifier': 'tf2_kdl'}
+[0.007077] (-) JobUnselected: {'identifier': 'tf2_msgs'}
+[0.007089] (-) JobUnselected: {'identifier': 'tf2_py'}
+[0.007102] (-) JobUnselected: {'identifier': 'tf2_ros'}
+[0.007164] (-) JobUnselected: {'identifier': 'tf2_ros_py'}
+[0.007181] (-) JobUnselected: {'identifier': 'tf2_sensor_msgs'}
+[0.007195] (-) JobUnselected: {'identifier': 'tf2_tools'}
+[0.007208] (-) JobUnselected: {'identifier': 'tinyxml2_vendor'}
+[0.007221] (-) JobUnselected: {'identifier': 'tinyxml_vendor'}
+[0.007234] (-) JobUnselected: {'identifier': 'tlsf'}
+[0.007246] (-) JobUnselected: {'identifier': 'tlsf_cpp'}
+[0.007259] (-) JobUnselected: {'identifier': 'topic_monitor'}
+[0.007278] (-) JobUnselected: {'identifier': 'topic_statistics_demo'}
+[0.007291] (-) JobUnselected: {'identifier': 'tracetools'}
+[0.007304] (-) JobUnselected: {'identifier': 'tracetools_launch'}
+[0.007316] (-) JobUnselected: {'identifier': 'tracetools_read'}
+[0.007332] (-) JobUnselected: {'identifier': 'tracetools_test'}
+[0.007345] (-) JobUnselected: {'identifier': 'tracetools_trace'}
+[0.007358] (-) JobUnselected: {'identifier': 'trajectory_msgs'}
+[0.007370] (-) JobUnselected: {'identifier': 'type_description_interfaces'}
+[0.007383] (-) JobUnselected: {'identifier': 'unique_identifier_msgs'}
+[0.007396] (-) JobUnselected: {'identifier': 'urdf'}
+[0.007409] (-) JobUnselected: {'identifier': 'urdf_parser_plugin'}
+[0.007421] (-) JobUnselected: {'identifier': 'visualization_msgs'}
+[0.007434] (-) JobUnselected: {'identifier': 'yaml_cpp_vendor'}
+[0.007446] (-) JobUnselected: {'identifier': 'zstd_vendor'}
+[0.007464] (rttest) JobQueued: {'identifier': 'rttest', 'dependencies': OrderedDict()}
+[0.007484] (rttest) JobStarted: {'identifier': 'rttest'}
+[0.045988] (rttest) JobProgress: {'identifier': 'rttest', 'progress': 'cmake'}
+[0.046312] (rttest) Command: {'cmd': ['/usr/bin/cmake', '/home/lyc/ros2_iron/src/ros2/realtime_support/rttest', '-DCMAKE_INSTALL_PREFIX=/home/lyc/ros2_iron/src/ros2/install/rttest'], 'cwd': '/home/lyc/ros2_iron/src/ros2/build/rttest', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('LANGUAGE', 'zh_CN:en'), ('USER', 'lyc'), ('LC_TIME', 'en_US.UTF-8'), ('GIO_MODULE_DIR', '/home/lyc/snap/code/common/.cache/gio-modules'), ('XDG_SESSION_TYPE', 'wayland'), ('GIT_ASKPASS', '/snap/code/155/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('GTK_EXE_PREFIX_VSCODE_SNAP_ORIG', ''), ('GDK_BACKEND_VSCODE_SNAP_ORIG', ''), ('SHLVL', '1'), ('HOME', '/home/lyc'), ('CHROME_DESKTOP', 'code-url-handler.desktop'), ('LOCPATH_VSCODE_SNAP_ORIG', ''), ('OLDPWD', '/home/lyc'), ('TERM_PROGRAM_VERSION', '1.87.2'), ('DESKTOP_SESSION', 'ubuntu'), ('GTK_PATH', '/snap/code/155/usr/lib/x86_64-linux-gnu/gtk-3.0'), ('GTK_IM_MODULE_FILE', '/home/lyc/snap/code/common/.cache/immodules/immodules.cache'), ('GIO_LAUNCHED_DESKTOP_FILE', '/var/lib/snapd/desktop/applications/code_code.desktop'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('GSETTINGS_SCHEMA_DIR_VSCODE_SNAP_ORIG', ''), ('VSCODE_GIT_ASKPASS_MAIN', '/snap/code/155/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('LC_MONETARY', 'en_US.UTF-8'), ('VSCODE_GIT_ASKPASS_NODE', '/snap/code/155/usr/share/code/code'), ('MANAGERPID', '1069'), ('SYSTEMD_EXEC_PID', '1271'), ('IM_CONFIG_CHECK_ENV', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '4826'), ('IM_CONFIG_PHASE', '1'), ('WAYLAND_DISPLAY', 'wayland-0'), ('GTK_IM_MODULE', 'fcitx'), ('LOGNAME', 'lyc'), ('JOURNAL_STREAM', '8:32019'), ('_', '/usr/bin/colcon'), ('XDG_CONFIG_DIRS_VSCODE_SNAP_ORIG', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_SESSION_CLASS', 'user'), ('XDG_DATA_DIRS_VSCODE_SNAP_ORIG', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('USERNAME', 'lyc'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('PATH', '/home/lyc/ros2_iron/gprof2dot:/home/lyc/.local/bin:/home/lyc/ros2_iron/gprof2dot:/home/lyc/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/lyc:@/tmp/.ICE-unix/1223,unix/lyc:/tmp/.ICE-unix/1223'), ('GTK_EXE_PREFIX', '/snap/code/155/usr'), ('INVOCATION_ID', '3f9f70d2290e4624a4fe9f3e02336589'), ('PAPERSIZE', 'letter'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'en_US.UTF-8'), ('BAMF_DESKTOP_FILE_HINT', '/var/lib/snapd/desktop/applications/code_code.desktop'), ('GNOME_SETUP_DISPLAY', ':1'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('LOCPATH', '/snap/code/155/usr/lib/locale'), ('LANG', 'zh_CN.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('LC_TELEPHONE', 'en_US.UTF-8'), ('GIO_MODULE_DIR_VSCODE_SNAP_ORIG', ''), ('XMODIFIERS', '@im=fcitx'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/.mutter-Xwaylandauth.F6ILL2'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1000/vscode-git-64a6e1b38c.sock'), ('TERM_PROGRAM', 'vscode'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('GSETTINGS_SCHEMA_DIR', '/home/lyc/snap/code/155/.local/share/glib-2.0/schemas'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('LC_NAME', 'en_US.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GTK_PATH_VSCODE_SNAP_ORIG', ''), ('GTK_IM_MODULE_FILE_VSCODE_SNAP_ORIG', ''), ('LC_MEASUREMENT', 'en_US.UTF-8'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('LC_IDENTIFICATION', 'en_US.UTF-8'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('QT_IM_MODULE', 'fcitx'), ('PWD', '/home/lyc/ros2_iron/src/ros2/build/rttest'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CLUTTER_IM_MODULE', 'fcitx'), ('XDG_DATA_DIRS', '/home/lyc/snap/code/155/.local/share:/home/lyc/snap/code/155:/snap/code/155/usr/share:/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('LC_NUMERIC', 'en_US.UTF-8'), ('LC_PAPER', 'en_US.UTF-8'), ('COLCON', '1')]), 'shell': False}
+[0.098645] (-) TimerEvent: {}
+[0.199311] (-) TimerEvent: {}
+[0.300381] (-) TimerEvent: {}
+[0.395171] (rttest) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[0.400853] (-) TimerEvent: {}
+[0.501477] (-) TimerEvent: {}
+[0.602102] (-) TimerEvent: {}
+[0.625957] (rttest) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[0.660445] (rttest) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.705466] (-) TimerEvent: {}
+[0.806164] (-) TimerEvent: {}
+[0.866232] (rttest) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.875263] (rttest) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[0.876563] (rttest) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.883361] (rttest) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.898891] (rttest) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[0.906801] (-) TimerEvent: {}
+[1.008071] (-) TimerEvent: {}
+[1.048772] (rttest) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[1.056939] (rttest) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[1.057277] (rttest) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[1.057889] (rttest) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[1.089977] (rttest) StdoutLine: {'line': b'-- ament_cmake_auto not found, executing pure CMake build\n'}
+[1.096369] (rttest) StdoutLine: {'line': b'-- Looking for pthread.h\n'}
+[1.108510] (-) TimerEvent: {}
+[1.209508] (-) TimerEvent: {}
+[1.248931] (rttest) StdoutLine: {'line': b'-- Looking for pthread.h - found\n'}
+[1.249289] (rttest) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD\n'}
+[1.310006] (-) TimerEvent: {}
+[1.412280] (-) TimerEvent: {}
+[1.420254] (rttest) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success\n'}
+[1.422919] (rttest) StdoutLine: {'line': b'-- Found Threads: TRUE  \n'}
+[1.425010] (rttest) StdoutLine: {'line': b'-- Configuring done\n'}
+[1.430348] (rttest) StdoutLine: {'line': b'-- Generating done\n'}
+[1.432353] (rttest) StdoutLine: {'line': b'-- Build files have been written to: /home/lyc/ros2_iron/src/ros2/build/rttest\n'}
+[1.447650] (rttest) CommandEnded: {'returncode': 0}
+[1.448477] (rttest) JobProgress: {'identifier': 'rttest', 'progress': 'build'}
+[1.448513] (rttest) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/lyc/ros2_iron/src/ros2/build/rttest', '--', '-j4', '-l4'], 'cwd': '/home/lyc/ros2_iron/src/ros2/build/rttest', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('LANGUAGE', 'zh_CN:en'), ('USER', 'lyc'), ('LC_TIME', 'en_US.UTF-8'), ('GIO_MODULE_DIR', '/home/lyc/snap/code/common/.cache/gio-modules'), ('XDG_SESSION_TYPE', 'wayland'), ('GIT_ASKPASS', '/snap/code/155/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('GTK_EXE_PREFIX_VSCODE_SNAP_ORIG', ''), ('GDK_BACKEND_VSCODE_SNAP_ORIG', ''), ('SHLVL', '1'), ('HOME', '/home/lyc'), ('CHROME_DESKTOP', 'code-url-handler.desktop'), ('LOCPATH_VSCODE_SNAP_ORIG', ''), ('OLDPWD', '/home/lyc'), ('TERM_PROGRAM_VERSION', '1.87.2'), ('DESKTOP_SESSION', 'ubuntu'), ('GTK_PATH', '/snap/code/155/usr/lib/x86_64-linux-gnu/gtk-3.0'), ('GTK_IM_MODULE_FILE', '/home/lyc/snap/code/common/.cache/immodules/immodules.cache'), ('GIO_LAUNCHED_DESKTOP_FILE', '/var/lib/snapd/desktop/applications/code_code.desktop'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('GSETTINGS_SCHEMA_DIR_VSCODE_SNAP_ORIG', ''), ('VSCODE_GIT_ASKPASS_MAIN', '/snap/code/155/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('LC_MONETARY', 'en_US.UTF-8'), ('VSCODE_GIT_ASKPASS_NODE', '/snap/code/155/usr/share/code/code'), ('MANAGERPID', '1069'), ('SYSTEMD_EXEC_PID', '1271'), ('IM_CONFIG_CHECK_ENV', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '4826'), ('IM_CONFIG_PHASE', '1'), ('WAYLAND_DISPLAY', 'wayland-0'), ('GTK_IM_MODULE', 'fcitx'), ('LOGNAME', 'lyc'), ('JOURNAL_STREAM', '8:32019'), ('_', '/usr/bin/colcon'), ('XDG_CONFIG_DIRS_VSCODE_SNAP_ORIG', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_SESSION_CLASS', 'user'), ('XDG_DATA_DIRS_VSCODE_SNAP_ORIG', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('USERNAME', 'lyc'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('PATH', '/home/lyc/ros2_iron/gprof2dot:/home/lyc/.local/bin:/home/lyc/ros2_iron/gprof2dot:/home/lyc/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/lyc:@/tmp/.ICE-unix/1223,unix/lyc:/tmp/.ICE-unix/1223'), ('GTK_EXE_PREFIX', '/snap/code/155/usr'), ('INVOCATION_ID', '3f9f70d2290e4624a4fe9f3e02336589'), ('PAPERSIZE', 'letter'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'en_US.UTF-8'), ('BAMF_DESKTOP_FILE_HINT', '/var/lib/snapd/desktop/applications/code_code.desktop'), ('GNOME_SETUP_DISPLAY', ':1'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('LOCPATH', '/snap/code/155/usr/lib/locale'), ('LANG', 'zh_CN.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('LC_TELEPHONE', 'en_US.UTF-8'), ('GIO_MODULE_DIR_VSCODE_SNAP_ORIG', ''), ('XMODIFIERS', '@im=fcitx'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/.mutter-Xwaylandauth.F6ILL2'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1000/vscode-git-64a6e1b38c.sock'), ('TERM_PROGRAM', 'vscode'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('GSETTINGS_SCHEMA_DIR', '/home/lyc/snap/code/155/.local/share/glib-2.0/schemas'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('LC_NAME', 'en_US.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GTK_PATH_VSCODE_SNAP_ORIG', ''), ('GTK_IM_MODULE_FILE_VSCODE_SNAP_ORIG', ''), ('LC_MEASUREMENT', 'en_US.UTF-8'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('LC_IDENTIFICATION', 'en_US.UTF-8'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('QT_IM_MODULE', 'fcitx'), ('PWD', '/home/lyc/ros2_iron/src/ros2/build/rttest'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CLUTTER_IM_MODULE', 'fcitx'), ('XDG_DATA_DIRS', '/home/lyc/snap/code/155/.local/share:/home/lyc/snap/code/155:/snap/code/155/usr/share:/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('LC_NUMERIC', 'en_US.UTF-8'), ('LC_PAPER', 'en_US.UTF-8'), ('COLCON', '1')]), 'shell': False}
+[1.515358] (-) TimerEvent: {}
+[1.535477] (rttest) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding CXX object CMakeFiles/rttest.dir/src/rttest.cpp.o\x1b[0m\n'}
+[1.615739] (-) TimerEvent: {}
+[1.716460] (-) TimerEvent: {}
+[1.817299] (-) TimerEvent: {}
+[1.918058] (-) TimerEvent: {}
+[2.018926] (-) TimerEvent: {}
+[2.119546] (-) TimerEvent: {}
+[2.220456] (-) TimerEvent: {}
+[2.321144] (-) TimerEvent: {}
+[2.422121] (-) TimerEvent: {}
+[2.522859] (-) TimerEvent: {}
+[2.565721] (rttest) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX static library librttest.a\x1b[0m\n'}
+[2.623180] (-) TimerEvent: {}
+[2.711833] (rttest) StdoutLine: {'line': b'[100%] Built target rttest\n'}
+[2.723752] (-) TimerEvent: {}
+[2.729225] (rttest) CommandEnded: {'returncode': 0}
+[2.799948] (rttest) JobProgress: {'identifier': 'rttest', 'progress': 'install'}
+[2.813953] (rttest) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/lyc/ros2_iron/src/ros2/build/rttest'], 'cwd': '/home/lyc/ros2_iron/src/ros2/build/rttest', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('LANGUAGE', 'zh_CN:en'), ('USER', 'lyc'), ('LC_TIME', 'en_US.UTF-8'), ('GIO_MODULE_DIR', '/home/lyc/snap/code/common/.cache/gio-modules'), ('XDG_SESSION_TYPE', 'wayland'), ('GIT_ASKPASS', '/snap/code/155/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('GTK_EXE_PREFIX_VSCODE_SNAP_ORIG', ''), ('GDK_BACKEND_VSCODE_SNAP_ORIG', ''), ('SHLVL', '1'), ('HOME', '/home/lyc'), ('CHROME_DESKTOP', 'code-url-handler.desktop'), ('LOCPATH_VSCODE_SNAP_ORIG', ''), ('OLDPWD', '/home/lyc'), ('TERM_PROGRAM_VERSION', '1.87.2'), ('DESKTOP_SESSION', 'ubuntu'), ('GTK_PATH', '/snap/code/155/usr/lib/x86_64-linux-gnu/gtk-3.0'), ('GTK_IM_MODULE_FILE', '/home/lyc/snap/code/common/.cache/immodules/immodules.cache'), ('GIO_LAUNCHED_DESKTOP_FILE', '/var/lib/snapd/desktop/applications/code_code.desktop'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('GSETTINGS_SCHEMA_DIR_VSCODE_SNAP_ORIG', ''), ('VSCODE_GIT_ASKPASS_MAIN', '/snap/code/155/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('LC_MONETARY', 'en_US.UTF-8'), ('VSCODE_GIT_ASKPASS_NODE', '/snap/code/155/usr/share/code/code'), ('MANAGERPID', '1069'), ('SYSTEMD_EXEC_PID', '1271'), ('IM_CONFIG_CHECK_ENV', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '4826'), ('IM_CONFIG_PHASE', '1'), ('WAYLAND_DISPLAY', 'wayland-0'), ('GTK_IM_MODULE', 'fcitx'), ('LOGNAME', 'lyc'), ('JOURNAL_STREAM', '8:32019'), ('_', '/usr/bin/colcon'), ('XDG_CONFIG_DIRS_VSCODE_SNAP_ORIG', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_SESSION_CLASS', 'user'), ('XDG_DATA_DIRS_VSCODE_SNAP_ORIG', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('USERNAME', 'lyc'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('PATH', '/home/lyc/ros2_iron/gprof2dot:/home/lyc/.local/bin:/home/lyc/ros2_iron/gprof2dot:/home/lyc/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/lyc:@/tmp/.ICE-unix/1223,unix/lyc:/tmp/.ICE-unix/1223'), ('GTK_EXE_PREFIX', '/snap/code/155/usr'), ('INVOCATION_ID', '3f9f70d2290e4624a4fe9f3e02336589'), ('PAPERSIZE', 'letter'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'en_US.UTF-8'), ('BAMF_DESKTOP_FILE_HINT', '/var/lib/snapd/desktop/applications/code_code.desktop'), ('GNOME_SETUP_DISPLAY', ':1'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('LOCPATH', '/snap/code/155/usr/lib/locale'), ('LANG', 'zh_CN.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('LC_TELEPHONE', 'en_US.UTF-8'), ('GIO_MODULE_DIR_VSCODE_SNAP_ORIG', ''), ('XMODIFIERS', '@im=fcitx'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/.mutter-Xwaylandauth.F6ILL2'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1000/vscode-git-64a6e1b38c.sock'), ('TERM_PROGRAM', 'vscode'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('GSETTINGS_SCHEMA_DIR', '/home/lyc/snap/code/155/.local/share/glib-2.0/schemas'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('LC_NAME', 'en_US.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GTK_PATH_VSCODE_SNAP_ORIG', ''), ('GTK_IM_MODULE_FILE_VSCODE_SNAP_ORIG', ''), ('LC_MEASUREMENT', 'en_US.UTF-8'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('LC_IDENTIFICATION', 'en_US.UTF-8'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('QT_IM_MODULE', 'fcitx'), ('PWD', '/home/lyc/ros2_iron/src/ros2/build/rttest'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CLUTTER_IM_MODULE', 'fcitx'), ('XDG_DATA_DIRS', '/home/lyc/snap/code/155/.local/share:/home/lyc/snap/code/155:/snap/code/155/usr/share:/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('LC_NUMERIC', 'en_US.UTF-8'), ('LC_PAPER', 'en_US.UTF-8'), ('COLCON', '1')]), 'shell': False}
+[2.824589] (rttest) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[2.824968] (-) TimerEvent: {}
+[2.825750] (rttest) StdoutLine: {'line': b'-- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/lib/librttest.a\n'}
+[2.826122] (rttest) StdoutLine: {'line': b'-- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/include\n'}
+[2.826195] (rttest) StdoutLine: {'line': b'-- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/include/rttest\n'}
+[2.826249] (rttest) StdoutLine: {'line': b'-- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/include/rttest/rttest.h\n'}
+[2.826303] (rttest) StdoutLine: {'line': b'-- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/include/rttest/utils.hpp\n'}
+[2.826355] (rttest) StdoutLine: {'line': b'-- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/include/rttest/math_utils.hpp\n'}
+[2.826547] (rttest) StdoutLine: {'line': b'-- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/share/rttest/CMake/rttestConfig.cmake\n'}
+[2.830234] (rttest) CommandEnded: {'returncode': 0}
+[2.925528] (-) TimerEvent: {}
+[2.943449] (rttest) JobEnded: {'identifier': 'rttest', 'rc': 0}
+[2.945436] (-) EventReactorShutdown: {}

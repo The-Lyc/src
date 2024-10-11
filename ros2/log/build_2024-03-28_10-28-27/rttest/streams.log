@@ -1,0 +1,38 @@
+[0.040s] Invoking command in '/home/lyc/ros2_iron/src/ros2/build/rttest': /usr/bin/cmake /home/lyc/ros2_iron/src/ros2/realtime_support/rttest -DCMAKE_INSTALL_PREFIX=/home/lyc/ros2_iron/src/ros2/install/rttest
+[0.388s] -- The C compiler identification is GNU 11.4.0
+[0.619s] -- The CXX compiler identification is GNU 11.4.0
+[0.653s] -- Detecting C compiler ABI info
+[0.859s] -- Detecting C compiler ABI info - done
+[0.868s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.869s] -- Detecting C compile features
+[0.876s] -- Detecting C compile features - done
+[0.892s] -- Detecting CXX compiler ABI info
+[1.041s] -- Detecting CXX compiler ABI info - done
+[1.050s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.050s] -- Detecting CXX compile features
+[1.051s] -- Detecting CXX compile features - done
+[1.083s] -- ament_cmake_auto not found, executing pure CMake build
+[1.089s] -- Looking for pthread.h
+[1.242s] -- Looking for pthread.h - found
+[1.242s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.413s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.416s] -- Found Threads: TRUE  
+[1.418s] -- Configuring done
+[1.423s] -- Generating done
+[1.425s] -- Build files have been written to: /home/lyc/ros2_iron/src/ros2/build/rttest
+[1.441s] Invoked command in '/home/lyc/ros2_iron/src/ros2/build/rttest' returned '0': /usr/bin/cmake /home/lyc/ros2_iron/src/ros2/realtime_support/rttest -DCMAKE_INSTALL_PREFIX=/home/lyc/ros2_iron/src/ros2/install/rttest
+[1.441s] Invoking command in '/home/lyc/ros2_iron/src/ros2/build/rttest': /usr/bin/cmake --build /home/lyc/ros2_iron/src/ros2/build/rttest -- -j4 -l4
+[1.528s] [ 50%] [32mBuilding CXX object CMakeFiles/rttest.dir/src/rttest.cpp.o[0m
+[2.558s] [100%] [32m[1mLinking CXX static library librttest.a[0m
+[2.705s] [100%] Built target rttest
+[2.722s] Invoked command in '/home/lyc/ros2_iron/src/ros2/build/rttest' returned '0': /usr/bin/cmake --build /home/lyc/ros2_iron/src/ros2/build/rttest -- -j4 -l4
+[2.807s] Invoking command in '/home/lyc/ros2_iron/src/ros2/build/rttest': /usr/bin/cmake --install /home/lyc/ros2_iron/src/ros2/build/rttest
+[2.817s] -- Install configuration: ""
+[2.819s] -- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/lib/librttest.a
+[2.819s] -- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/include
+[2.819s] -- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/include/rttest
+[2.819s] -- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/include/rttest/rttest.h
+[2.819s] -- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/include/rttest/utils.hpp
+[2.819s] -- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/include/rttest/math_utils.hpp
+[2.819s] -- Installing: /home/lyc/ros2_iron/src/ros2/install/rttest/share/rttest/CMake/rttestConfig.cmake
+[2.823s] Invoked command in '/home/lyc/ros2_iron/src/ros2/build/rttest' returned '0': /usr/bin/cmake --install /home/lyc/ros2_iron/src/ros2/build/rttest
